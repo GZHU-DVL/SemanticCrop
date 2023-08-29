@@ -60,3 +60,4 @@ python DDP_linear.py configs/linear/IN200_res50.py --load ./checkpoints/IN200/mo
 # IN-1K
 python DDP_linear.py configs/linear/IN1K_res50.py --load ./checkpoints/IN1K/mocov2_ccrop/last.pth
 ```
+This paper presents improvements made on ContrastiveCrop.
